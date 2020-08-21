@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW1_GuessingGame</string>
+    <string name="app_Boton1">Jugar</string>
+    <string name="app_Boton2">Reiniciar juego</string>
+    <string name="app_Numero1"># Digite un numero entre 1 y 1000</string>
+    <string name="app_Top">Adivina el número</string>
+    <string name="app_TopDown">Intenta adivinar el numero que estoy pensando del 1 al 1000</string>
+</resources>
